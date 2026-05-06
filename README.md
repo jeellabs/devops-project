@@ -50,7 +50,7 @@ Setup & Installation
 Clone the repository
 
 bash
-git clone https://github.com/your-username/devops-project.git
+git clone https://github.com/jeellabs/devops-project.git
 cd devops-project
 
 
